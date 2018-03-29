@@ -1,0 +1,3 @@
+This project is mainly for Eureka
+After getting this project, incase you want to run all 3 services namely(discovery,account,customer) from your STS IDE, you need to import them individually again.
+Alternatively, you can run them from command promt using command like below
