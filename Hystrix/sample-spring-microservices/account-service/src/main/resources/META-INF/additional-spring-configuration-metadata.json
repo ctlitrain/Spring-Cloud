@@ -1,0 +1,67 @@
+{"properties": [
+  {
+    "name": "Hystrix.hystrix.command.default.execution.isolation.strategy",
+    "type": "java.lang.String",
+    "description": "A description for 'Hystrix.hystrix.command.default.execution.isolation.strategy'"
+  },
+  {
+    "name": "Hystrix.hystrix.command.default.execution.isolation.thread.timeout-in-milliseconds",
+    "type": "java.lang.String",
+    "description": "A description for 'Hystrix.hystrix.command.default.execution.isolation.thread.timeout-in-milliseconds'"
+  },
+  {
+    "name": "Hystrix.hystrix.command.default.circuit-breaker.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'Hystrix.hystrix.command.default.circuit-breaker.enabled'"
+  },
+  {
+    "name": "Hystrix.hystrix.command.default.fallback.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'Hystrix.hystrix.command.default.fallback.enabled'"
+  },
+  {
+    "name": "Hystrix.hystrix.command.default.circuit-breaker.request-volume-threshold",
+    "type": "java.lang.String",
+    "description": "A description for 'Hystrix.hystrix.command.default.circuit-breaker.request-volume-threshold'"
+  },
+  {
+    "name": "Hystrix.hystrix.command.default.circuit-breaker.sleep-window-in-milliseconds",
+    "type": "java.lang.String",
+    "description": "A description for 'Hystrix.hystrix.command.default.circuit-breaker.sleep-window-in-milliseconds'"
+  },
+  {
+    "name": "Hystrix.hystrix.command.default.circuit-breaker.error-threshold-percentage",
+    "type": "java.lang.String",
+    "description": "A description for 'Hystrix.hystrix.command.default.circuit-breaker.error-threshold-percentage'"
+  },
+  {
+    "name": "ribbon.eureka.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'ribbon.eureka.enabled'"
+  },
+  {
+    "name": "spring.logging.pattern.console",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.logging.pattern.console'"
+  },
+  {
+    "name": "spring.logging.level.org.springframework",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.logging.level.org.springframework'"
+  },
+  {
+    "name": "spring.logging.level.org.hibernate",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.logging.level.org.hibernate'"
+  },
+  {
+    "name": "eureka.client.healthcheck.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.client.healthcheck.enabled'"
+  },
+  {
+    "name": "ping-server.ribbon.eureka.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'ping-server.ribbon.eureka.enabled'"
+  }
+]}
